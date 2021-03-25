@@ -1,0 +1,15 @@
+/Users/joyambrose/RepetitionLesson/obj/Debug/net5.0/RepetitionLesson.csprojAssemblyReference.cache
+/Users/joyambrose/RepetitionLesson/obj/Debug/net5.0/RepetitionLesson.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joyambrose/RepetitionLesson/obj/Debug/net5.0/RepetitionLesson.AssemblyInfoInputs.cache
+/Users/joyambrose/RepetitionLesson/obj/Debug/net5.0/RepetitionLesson.AssemblyInfo.cs
+/Users/joyambrose/RepetitionLesson/obj/Debug/net5.0/RepetitionLesson.csproj.CoreCompileInputs.cache
+/Users/joyambrose/RepetitionLesson/bin/Debug/net5.0/RepetitionLesson.deps.json
+/Users/joyambrose/RepetitionLesson/bin/Debug/net5.0/RepetitionLesson.runtimeconfig.json
+/Users/joyambrose/RepetitionLesson/bin/Debug/net5.0/RepetitionLesson.runtimeconfig.dev.json
+/Users/joyambrose/RepetitionLesson/bin/Debug/net5.0/RepetitionLesson.dll
+/Users/joyambrose/RepetitionLesson/bin/Debug/net5.0/ref/RepetitionLesson.dll
+/Users/joyambrose/RepetitionLesson/bin/Debug/net5.0/RepetitionLesson.pdb
+/Users/joyambrose/RepetitionLesson/obj/Debug/net5.0/RepetitionLesson.dll
+/Users/joyambrose/RepetitionLesson/obj/Debug/net5.0/ref/RepetitionLesson.dll
+/Users/joyambrose/RepetitionLesson/obj/Debug/net5.0/RepetitionLesson.pdb
+/Users/joyambrose/RepetitionLesson/obj/Debug/net5.0/RepetitionLesson.genruntimeconfig.cache
